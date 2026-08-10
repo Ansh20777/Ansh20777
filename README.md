@@ -39,10 +39,9 @@ Currently learning and building more projects as I progress through web developm
 
 
 ### External links:
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ansh-singh-41800b262)     
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([YOUR_LEETCODE_PROFILE_URL](https://leetcode.com/u/Ansh20777/))
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ansh-singh-41800b262)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ansh20777/)
 
 <div align="center">
 
