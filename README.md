@@ -2,130 +2,56 @@
 
 Hi, I'm Ansh 👋
 
-CSE Student • Problem Solver • Aspiring Developer
+CSE Student • Web Developer • Problem Solver
 
 :::
 
-👨‍💻 About Me
+👨‍💻 About Me:
 
-🎓 B.Tech Computer Science & Engineering student at IIITGuwahati
+🎓 B.Tech CSE student at IIIT Guwahati
 
-🧠 Currently focused on Data Structures & Algorithms
+🧠 Currently doing DSA & problem solving
 
-🌐 Learning and building with HTML, CSS & JavaScript
+🌐 Learning Web Development, starting with frontend and moving towards full-stack
 
-☕ Interested in software development and building things fromscratch
+🚀 Building projects while learning and experimenting with newtechnologies
 
-🚀 Currently improving my problem-solving skills and frontenddevelopment
 
-📈 Trying to understand things instead of just memorizing them. Asurprisingly unpopular strategy.
-
-🛠️ Tech Stack
-
-Languages
+🛠️ Tech Stack:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />{=html}
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,vscode" />{=html}
 
 </p>
 
-Development Tools
+🚀 Projects:
 
-<p>
+📝 Quill
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />{=html}
+A project focused on building and experimenting with web development.
 
-</p>
-
-🧠 What I'm Learning
-
-Data Structures & Algorithms
-        ↓
-Problem Solving & Competitive Programming
-        ↓
-Java & Object-Oriented Programming
-        ↓
-HTML + CSS
-        ↓
-JavaScript & DOM
-        ↓
-Frontend Projects
-
-Currently spending an unreasonable amount of time asking why a tinypiece of code doesn't work.
-
-🚀 Projects
+Stack: HTML • CSS • JavaScript
 
 🛒 Amazon Clone
 
-A frontend recreation of Amazon's interface, built while learning modernHTML and CSS.
+A frontend recreation of Amazon's interface, built while learning HTMLand CSS.
 
-Tech: HTML • CSS
+Stack: HTML • CSS
 
-JavaScript functionality will be added as I progress with JS.
+🔨 More Coming Soon...
 
-🔨 More Projects Coming
+Currently learning and building more projects as I progress through webdevelopment.
 
-Currently building smaller projects while learning JavaScript, DOMmanipulation and events.
 
-📚 DSA
-
-Currently working through core DSA topics including:
-
-Arrays
-
-Hashing
-
-Two Pointers
-
-Sliding Window
-
-Prefix Sum / Prefix XOR
-
-Sorting Algorithms
-
-Binary Search
-
-Recursion
-
-Dynamic Programming
-
-Linked Lists
-
-Trees & Graphs
-
-My goal is not merely to collect solved-problem badges like Pokémon, butto understand the patterns behind them.
-
-📊 GitHub Stats
+📊 GitHub Stats:
 
 ::: {align="center"}<img src="https://github-readme-stats.vercel.app/api?username=Ansh20777&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>{=html}
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>{=html}
-
-<br>{=html}
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />{=html}:::
-
-🎯 Current Goals
-
-Get strong at DSA fundamentals
-
-Build solid JavaScript projects
-
-Become comfortable with frontend development
-
-Build larger full-stack projects
-
-Write cleaner and more maintainable code
-
-Keep learning without adding 47 technologies to my résumé afterwatching one tutorial
-
-📫 Connect With Me
-
-::: {align="center"}:::
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh20777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>{=html}:::
 
 ::: {align="center"}
 
-⭐ Thanks for visiting!
+Thanks for visiting! ⭐
 
 :::
