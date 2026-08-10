@@ -1,10 +1,12 @@
-::: {align="center"}
+<div align="center">
 
 Hi, I'm Ansh 👋
 
 CSE Student • Web Developer • Problem Solver
 
-:::
+
+
+</div>
 
 👨‍💻 About Me:
 
@@ -12,17 +14,13 @@ CSE Student • Web Developer • Problem Solver
 
 🧠 Currently doing DSA & problem solving
 
-🌐 Learning Web Development, starting with frontend and moving towards full-stack
-
-🚀 Building projects while learning and experimenting with newtechnologies
+🌐 Learning Web Development, starting with frontend and moving toward full-stack
 
 
 🛠️ Tech Stack:
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,vscode" />{=html}
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
 🚀 Projects:
@@ -31,27 +29,32 @@ CSE Student • Web Developer • Problem Solver
 
 A project focused on building and experimenting with web development.
 
-Stack: HTML • CSS • JavaScript
+Stack: HTML • CSS 
 
 🛒 Amazon Clone
 
-A frontend recreation of Amazon's interface, built while learning HTMLand CSS.
+A frontend recreation of Amazon's interface, built while learning HTML and CSS.
 
-Stack: HTML • CSS
+Stack: HTML • CSS • JavaScript
 
 🔨 More Coming Soon...
 
-Currently learning and building more projects as I progress through webdevelopment.
+Currently learning and building more projects as I progress through web development.
 
 
-📊 GitHub Stats:
+Full-Stack Web Development
 
-::: {align="center"}<img src="https://github-readme-stats.vercel.app/api?username=Ansh20777&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>{=html}
+📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh20777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>{=html}:::
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh20777&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh20777&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
-::: {align="center"}
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-singh-41800b262/)
+
+<div align="center">
 
 Thanks for visiting! ⭐
 
-:::
+</div>
