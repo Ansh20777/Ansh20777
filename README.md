@@ -23,22 +23,6 @@ Hi, **Ansh** here
   <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
-
-# Projects:
-
-## Quill 
-[Repository](https://github.com/Ansh20777/Quill_project)<br>
-A project focused on building and experimenting with web development. <br>
-Stack: HTML • CSS 
-
-## Amazon Clone
-A frontend recreation of Amazon's interface, built while learning HTML and CSS. <br>
-Stack: HTML • CSS • JavaScript
-
-### More Coming Soon...
-Currently learning and building more projects as I progress through web development.
-
-
 ### External links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-singh-41800b262/)
